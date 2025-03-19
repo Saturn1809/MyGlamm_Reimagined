@@ -29,12 +29,6 @@ This project focuses on replicating the design and smooth user interactions of t
 ## 📸 Demo
 
 **Live Demo:**(https://saturn1809.github.io/Chakravyuh-ReimagineRound1/)
-**Screenshots:**
-
-![Home Page Screenshot](#) <!-- Replace with your actual screenshot link -->
-![Mobile View Screenshot](#)
-
----
 
 ## 📂 Folder Structure
 
