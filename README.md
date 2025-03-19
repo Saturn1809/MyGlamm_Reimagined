@@ -1,5 +1,4 @@
-# 💄 MyGlamm Frontend Clone
-
+# 💄 MyGlamm Frontend Reimagined
 A responsive and visually appealing clone of the **MyGlamm** website, built purely with modern frontend technologies.  
 This project focuses on replicating the design and smooth user interactions of the original website.
 
@@ -28,7 +27,14 @@ This project focuses on replicating the design and smooth user interactions of t
 
 ## 📸 Demo
 
-**Live Demo:**(https://saturn1809.github.io/Chakravyuh-ReimagineRound1/)
+**Live Demo:** [MyGlamm Clone Website](https://saturn1809.github.io/Chakravyuh-ReimagineRound1/)
+
+**Screenshots:**
+
+![Home Page Screenshot](#) <!-- Replace with your actual screenshot link -->
+![Mobile View Screenshot](#)
+
+---
 
 ## 📂 Folder Structure
 
@@ -44,7 +50,7 @@ myglamm-clone/
 
 ---
 
-## 🌟 What I Learned
+## 🎯 What I Learned
 
 - Implementing advanced animations with **GSAP**
 - Writing clean, responsive layouts using **Tailwind CSS**
@@ -61,7 +67,7 @@ myglamm-clone/
 
 ---
 
-## 👌 Acknowledgments
+## 🙌 Acknowledgments
 
 - Inspired by **MyGlamm** official website
 - Animation powered by **GSAP**
