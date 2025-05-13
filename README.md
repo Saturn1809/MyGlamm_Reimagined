@@ -32,8 +32,7 @@ This project focuses on replicating the design and smooth user interactions of t
 
 **Screenshots:**
 
-![Home Page Screenshot](#) <!-- Replace with your actual screenshot link -->
-![Mobile View Screenshot](#)
+![Home Page Screenshot]() <!-- Replace with your actual screenshot link -->
 
 ---
 
